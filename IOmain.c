@@ -22,7 +22,7 @@ Jean-Loup BEAUSSART & Dylan GUERVILLE
 #include <SDL2/SDL_image.h>
 #include <SDL2/SDL_ttf.h>
 #include <fmod.h>
-#include <gtk\gtk.h>
+#include <gtk/gtk.h>
 #include "IOoptions.h"
 #include "IOmain.h"
 #include "main.h"

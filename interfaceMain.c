@@ -14,7 +14,7 @@ Jean-Loup BEAUSSART & Dylan GUERVILLE
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <gtk\gtk.h>
+#include <gtk/gtk.h>
 #include <time.h>
 #include <SDL2/SDL.h>
 #include <math.h>

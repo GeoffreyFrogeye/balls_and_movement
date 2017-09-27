@@ -18,7 +18,7 @@ Jean-Loup BEAUSSART & Dylan GUERVILLE
 #include <md5.h>
 #include <winsock.h>
 #include <mysql.h>
-#include <gtk\gtk.h>
+#include <gtk/gtk.h>
 #include <time.h>
 #include <SDL2/SDL.h>
 #include <math.h>
